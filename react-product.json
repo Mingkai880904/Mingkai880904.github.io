@@ -1,15 +1,15 @@
 [
-        {"id":1,"name":"錫蘭紅茶 Ceylon Black Tea","price":"$40.00","image":"Ceylon-Black-Tea.jpg","description":"錫蘭紅茶茶色偏紅且清透，口感柔潤香醇，茶氣回甘綿長，入喉暢涼解渴。茶葉產地: 斯里蘭卡及印度。"},
-        {"id":2,"name":"翡翠綠茶 Jasmine Green Tea","price":"$40.00","image":"Jasmine-Green-Tea.jpg","description":"茉莉花薰花茶香綠茶，清爽原味茶回甘解膩，茶味滿分。茶葉產地: 越南及台灣。"},
-        {"id":3,"name":"蜜桃紅茶","price":"$50.00","image":"Peach-Black-Tea.jpg","description":"台灣蜜果茶香紅茶，搭配斯里蘭卡高山汀普拉茶區莊園紅茶，入口感受蜜桃清香。產地：茶葉-斯里蘭卡、台灣"},
-        {"id":4,"name":"高山金萱茶 Alpine Jinxuan Tea","price":"$40.00","image":"Alpine-Jinxuan-Tea.jpg","description":"經典不敗的萬年熱銷飲品非「高山金萱茶」莫屬！冰鎮技術沖煮保留金萱茶湯味甘、順口的細緻茶香，柔和不澀口，感受到源於高山的清雅香氣，百喝不膩。茶葉產地: 台灣。"},
-        {"id":5,"name":"金萱雙Q茶 Jinxuan Tea with Tapioca Balls and Jelly","price":"$40.00","image":"Jinxuan-Tea-with-Tapioca-Balls-and-Jelly.jpg","description":"高山金萱獨有的清香，搭配彈牙的白珍珠與香甜Q脆的椰果，甘甜風味與雙重嚼感一次滿足！。茶葉產地: 台灣。"},
-        {"id":6,"name":"金萱三Q","price":"$55.00","image":"3Q.jpg","description":"嚴選台灣高山金萱茶為基底，放入滿滿的配料，有彈牙珍珠、椰果與白珍珠，每口都是淡雅茶香與彈牙爽脆的交融，滿滿飽足、滿滿幸福。茶葉產地: 台灣。"},
-        {"id":7,"name":"古早味紅茶 Old Fashioned Black Tea","price":"$40.00","image":"Old-Fashioned-Black-Tea.jpg","description":"手工熬煮的古早味紅茶，茶葉炭焙香氣和焦糖香交融，滋味柔和香甜又順口。茶葉產地: 印度。"},
-        {"id":8,"name":"玫瑰紅茶拿鐵 Rose Black Tea Latte","price":"$75.00","image":"Rose-Black-Tea-Latte.jpg","description":"特選斯里蘭卡的錫蘭紅茶為基底，與香濃的鮮奶黃金比例調和，加入法國玫瑰果露，恬淡玫瑰香氣完美融合奶香，入口濃醇芳香，滑順細膩。茶葉產地: 斯里蘭卡"},
-        {"id":9,"name":"抹茶拿鐵","price":"$90.00","image":"Green-tea-latte.jpg","description":"嚴選福岡八女抹茶與靜岡抹茶混搭，雙倍抹茶風味​以職人工法融入香醇鮮奶中，​完美結合出夢幻般抹茶綠漸層 ，​入喉溫順濃郁尾韻回甘輕甜​，是款抹茶控的療癒日常。"},
-        {"id":10,"name":"阿華田拿鐵 Ovaltine Tea Lattle","price":"$75.00","image":"Ovaltine-Tea-Lattle.jpg","description":"香醇豐厚的可可，與香濃的鮮奶黃金比例調和，入口濃郁香醇。"},
-        {"id":11,"name":"鐵觀音拿鐵 Tie Kuan Yin Tea Latte","price":"$70.00","image":"Tie-Kuan-Yin-Tea-Latte.jpg","description":"鐵觀音炭焙香風味濃而醇厚，與溫潤香濃的鮮奶相交織， 芳香甘醇口齒留香。茶葉產地: 越南及台灣。"},
-        {"id":12,"name":"布丁紅茶拿鐵 Pudding Tea Latte","price":"$85.00","image":"Pudding-Tea-Latte.jpg","description":"特選斯里蘭卡的錫蘭紅茶為基底，與香濃的光泉鮮奶黃金比例調和，佐以滑嫩綿密布丁，口感圓潤順口，綿密香醇。茶葉產地: 斯里蘭卡。"}
+        {"id":1,"name":"錫蘭紅茶 Ceylon Black Tea","price":"40","image":"Ceylon-Black-Tea.jpg","description":"錫蘭紅茶茶色偏紅且清透，口感柔潤香醇，茶氣回甘綿長，入喉暢涼解渴。茶葉產地: 斯里蘭卡及印度。"},
+        {"id":2,"name":"翡翠綠茶 Jasmine Green Tea","price":"40","image":"Jasmine-Green-Tea.jpg","description":"茉莉花薰花茶香綠茶，清爽原味茶回甘解膩，茶味滿分。茶葉產地: 越南及台灣。"},
+        {"id":3,"name":"蜜桃紅茶","price":"50","image":"Peach-Black-Tea.jpg","description":"台灣蜜果茶香紅茶，搭配斯里蘭卡高山汀普拉茶區莊園紅茶，入口感受蜜桃清香。產地：茶葉-斯里蘭卡、台灣"},
+        {"id":4,"name":"高山金萱茶 Alpine Jinxuan Tea","price":"40","image":"Alpine-Jinxuan-Tea.jpg","description":"經典不敗的萬年熱銷飲品非「高山金萱茶」莫屬！冰鎮技術沖煮保留金萱茶湯味甘、順口的細緻茶香，柔和不澀口，感受到源於高山的清雅香氣，百喝不膩。茶葉產地: 台灣。"},
+        {"id":5,"name":"金萱雙Q茶 Jinxuan Tea with Tapioca Balls and Jelly","price":"40","image":"Jinxuan-Tea-with-Tapioca-Balls-and-Jelly.jpg","description":"高山金萱獨有的清香，搭配彈牙的白珍珠與香甜Q脆的椰果，甘甜風味與雙重嚼感一次滿足！。茶葉產地: 台灣。"},
+        {"id":6,"name":"金萱三Q","price":"55","image":"3Q.jpg","description":"嚴選台灣高山金萱茶為基底，放入滿滿的配料，有彈牙珍珠、椰果與白珍珠，每口都是淡雅茶香與彈牙爽脆的交融，滿滿飽足、滿滿幸福。茶葉產地: 台灣。"},
+        {"id":7,"name":"古早味紅茶 Old Fashioned Black Tea","price":"40","image":"Old-Fashioned-Black-Tea.jpg","description":"手工熬煮的古早味紅茶，茶葉炭焙香氣和焦糖香交融，滋味柔和香甜又順口。茶葉產地: 印度。"},
+        {"id":8,"name":"玫瑰紅茶拿鐵 Rose Black Tea Latte","price":"75","image":"Rose-Black-Tea-Latte.jpg","description":"特選斯里蘭卡的錫蘭紅茶為基底，與香濃的鮮奶黃金比例調和，加入法國玫瑰果露，恬淡玫瑰香氣完美融合奶香，入口濃醇芳香，滑順細膩。茶葉產地: 斯里蘭卡"},
+        {"id":9,"name":"抹茶拿鐵","price":"90","image":"Green-tea-latte.jpg","description":"嚴選福岡八女抹茶與靜岡抹茶混搭，雙倍抹茶風味​以職人工法融入香醇鮮奶中，​完美結合出夢幻般抹茶綠漸層 ，​入喉溫順濃郁尾韻回甘輕甜​，是款抹茶控的療癒日常。"},
+        {"id":10,"name":"阿華田拿鐵 Ovaltine Tea Lattle","price":"75","image":"Ovaltine-Tea-Lattle.jpg","description":"香醇豐厚的可可，與香濃的鮮奶黃金比例調和，入口濃郁香醇。"},
+        {"id":11,"name":"鐵觀音拿鐵 Tie Kuan Yin Tea Latte","price":"70","image":"Tie-Kuan-Yin-Tea-Latte.jpg","description":"鐵觀音炭焙香風味濃而醇厚，與溫潤香濃的鮮奶相交織， 芳香甘醇口齒留香。茶葉產地: 越南及台灣。"},
+        {"id":12,"name":"布丁紅茶拿鐵 Pudding Tea Latte","price":"85","image":"Pudding-Tea-Latte.jpg","description":"特選斯里蘭卡的錫蘭紅茶為基底，與香濃的光泉鮮奶黃金比例調和，佐以滑嫩綿密布丁，口感圓潤順口，綿密香醇。茶葉產地: 斯里蘭卡。"}
 
     ]
